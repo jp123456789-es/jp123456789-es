@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1>BIENVENIDOS HOY ESTAMOS JUNTOS</h1>
+<h1>BIENVENIDO AMI FASINANTE TIENDA </h1>
 
 rset="UTF-8">
     <meta name="viewport" content="width=
