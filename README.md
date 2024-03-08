@@ -17,7 +17,7 @@ imgbisuteria.htm"<i class="fas fa-wizards-of-the-coast fa-10x  "><i class="fas f
       " alt="">
     <div class="card-body">
         <h5 class="card-title">biembenidos</h5>
-        <p class="card-text">tenemos productos <div id="my-carousel" class="carousel slide" data-ride="carousel">
+        <p class="card-text">tenemos todos los  productos que necesitas <div id="my-carousel" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li class="active" data-target="#my-carousel" data-slide-to="1" aria-current="location"torrejon de ardoz>sus producto</li>
                 <li data-target="#my-carousel" data-slide-to="2">bisuteria</li>
@@ -47,9 +47,10 @@ imgbisuteria.htm"<i class="fas fa-wizards-of-the-coast fa-10x  "><i class="fas f
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="imgbisuteria.htm" alt="">
+                            <img class="d-block w-100" src="im![image](https://github.com/jp123456789-es/jp123456789-es/assets/162122838/74f9274e-e263-4c21-9cac-dfd5614545e9)
+gimgbisuteria.htm" alt="">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Title</h5>
+                                <h5> TUS PRENDAS  COMO QUIERES</h5>
                                 <p>Text</p>
                             </div>
                         </div>
